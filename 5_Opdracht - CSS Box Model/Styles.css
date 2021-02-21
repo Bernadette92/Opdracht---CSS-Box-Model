@@ -1,0 +1,57 @@
+
+*{
+    margin: 20px 10px;
+    font-family: 'Shippori Mincho', serif;
+}
+
+body { 
+    color: #445a67;
+    background-color: #f6f7fb;
+    font-family: ship;
+}
+
+h1{
+       line-height: 1.6em ;}
+
+
+header {
+        border: 5px outset burlywood;
+        padding: 0px 5px ;
+
+}
+
+
+main {
+    border: 5px double cadetblue;
+    padding: 5px ;
+    width:650px;
+    margin:auto; 
+
+}
+
+section { 
+    border: burlywood 2px solid;
+    padding: 5px ;
+    font-size: smaller;
+
+}
+
+nav {
+    font-size:smaller;
+    border: 1px double azure;
+    display: block;
+}
+
+ul.nav {
+        display: block;
+        width: 20px;
+        color: blue;
+    
+}
+
+footer {border: 5px outset chocolate;
+    padding: 5px 10px;
+    font-size: 15px;
+
+
+}
